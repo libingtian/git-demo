@@ -12,4 +12,4 @@ hello zsj! hello git!
 hello zsj! hello git!
 hello zsj! hello git!
 hello zsj! hello git!
-hello zsj! hello git!
+hello zsj! hello git! hot-fix test
